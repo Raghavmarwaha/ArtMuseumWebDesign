@@ -1,0 +1,39 @@
+	.backImg {
+	background-image: url("imgThree.jpg");
+	background-repeat: no-repeat;
+	height: 600px;
+	opacity: 0.8;
+}
+
+.anchorSet a {
+	color: white;
+	text-decoration: none;
+}
+
+.fa-facebook {
+	color: white;
+}
+
+.fa-twitter {
+	color: white;
+}
+
+.fa-google {
+	color: white;
+}
+
+.fa-linkedin {
+	color: white;
+}
+
+.setPara {
+	color: white;
+}
+
+.navSet a {
+	color: white;
+	text-decoration: none;
+}
+
+.backColor {
+	background-color: #f2f2f2;
